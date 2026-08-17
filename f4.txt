@@ -1,1 +1,2 @@
 f4.txt created in feature branch
+f4.txt updated in release branch
